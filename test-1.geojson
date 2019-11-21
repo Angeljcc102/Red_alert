@@ -1,0 +1,3005 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2107622,20.4455609 ]
+    },
+    "properties": {
+    "id":1179135403175088000,
+    "description":"CHOQUE 🚙💥🚗 en Ixtl, Col. La Capilla, Antigua Carretera A La Capilla y Casas Bali. Tome precauciones",
+    "Latitude":"204,455,609",
+    "Longitude":"-1,032,107,622",
+    "date":"2019-10-01 20:46:02",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4762401,20.7132472 ]
+    },
+    "properties": {
+    "id":1179133367880753200,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col. Desconoce, Carretera A Nogales y Rancho Contento. Tome precauciones",
+    "Latitude":"207,132,472",
+    "Longitude":"-1,034,762,401",
+    "date":"2019-10-01 20:37:56",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179133362407170000,
+    "description":"CABLES CAÍDOS ⚠ en Guadalajara, Col. San Marcos Oriente, Monte La Luna y Tecali. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 20:37:55",
+    "title":"CABLES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179132847493394400,
+    "description":"DROGADICTO AGRESIVO 🚔 en Zapopan, Col. Girasoles Acueducto, Magnolia y Av. Federalistas. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 20:35:52",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3737044,20.6178479 ]
+    },
+    "properties": {
+    "id":1179131826406936600,
+    "description":"ATROPELLADO 🚑 en Tlaquepaque, Col.   Olivos, Prolongacion 8 De Julio y Prolongacion González Gallo. Tome precauciones",
+    "Latitude":"206,178,479",
+    "Longitude":"-1,033,737,044",
+    "date":"2019-10-01 20:31:49",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179131314974478300,
+    "description":"ATROPELLADO 🚑 en Tlaquepaque, Col.   Los Olivos, Jesús Michel González y González Gallo. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 20:29:47",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179131312113946600,
+    "description":"ATROPELLADO 🚑 en Tlaquepaque, Col.   Olivos, 8 De Julio y González Gallo. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 20:29:46",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3649357,20.5783745 ]
+    },
+    "properties": {
+    "id":1179131306149601300,
+    "description":"ATROPELLADO 🚑 en Tlaquepaque, Col.   Alborada, 8 De Julio y Periférico Sur. Tome precauciones",
+    "Latitude":"205,783,745",
+    "Longitude":"-1,033,649,357",
+    "date":"2019-10-01 20:29:45",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4808032,20.6252769 ]
+    },
+    "properties": {
+    "id":1179130271603609600,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col. La Granja, Vallarta y Aviación. Tome precauciones",
+    "Latitude":"206,252,769",
+    "Longitude":"-1,034,808,032",
+    "date":"2019-10-01 20:25:38",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179128179774107600,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col. San Juan De Ocotán, Carretera A Nogales y Camino Arenero. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 20:17:19",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179128161616965600,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Santa Teresita, Pedro Antonio Buzeta y Manuel Acuña. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 20:17:15",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4227766,20.5784313 ]
+    },
+    "properties": {
+    "id":1179126631090262000,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Tlaquepaque, Col.   Las Pomas, Prol. Colón y Camino Real. Tome precauciones",
+    "Latitude":"205,784,313",
+    "Longitude":"-1,034,227,766",
+    "date":"2019-10-01 20:11:10",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179126625570627600,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. El Batán, Prolongacion Alcalde y Experiencia. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 20:11:09",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179126109146878000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Santa Cecilia 1A. Sección, Av. Paseo De La Selva Norte y Julián Carrillo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 20:09:06",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179125083845075000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Jardines De La Paz, Reporteros y José R. Benítez. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 20:05:01",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179123554635440000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Los Arrayanes, Puerto Melaque y José Rosas Moreno. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 19:58:57",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4476738,20.5628447 ]
+    },
+    "properties": {
+    "id":1179121516228890600,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Los Gavilanes, Camino Real A Colima y Coto Sorrento Sur. Tome precauciones",
+    "Latitude":"205,628,447",
+    "Longitude":"-1,034,476,738",
+    "date":"2019-10-01 19:50:51",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2871436,20.6540501 ]
+    },
+    "properties": {
+    "id":1179118968642195500,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Insurgentes 1A Secc, Adrián Puga y María Benítez. Tome precauciones",
+    "Latitude":"206,540,501",
+    "Longitude":"-1,032,871,436",
+    "date":"2019-10-01 19:40:43",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179114894064525300,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Libertad, Cairo e Industria. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 19:24:32",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179113871291900000,
+    "description":"FALLA DE SEMÁFORO 🚦 en Guadalajara, Col. 5 De Mayo, Manuel Varela y Av. Patria. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 19:20:28",
+    "title":"FALLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4723412,20.6300399 ]
+    },
+    "properties": {
+    "id":1179112848787742700,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. El Fortín, Topacio y Clarín. Tome precauciones",
+    "Latitude":"206,300,399",
+    "Longitude":"-1,034,723,412",
+    "date":"2019-10-01 19:16:24",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179109279929962500,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Lomas De Tlaquepaque, Río Seco y Calz. Lázaro Cárdenas. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 19:02:13",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3599865,20.5259456 ]
+    },
+    "properties": {
+    "id":1179108261502562300,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Valle Dorado, Cto Valle Dorado y Valle De México. Tome precauciones",
+    "Latitude":"205,259,456",
+    "Longitude":"-1,033,599,865",
+    "date":"2019-10-01 18:58:10",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3599865,20.5259456 ]
+    },
+    "properties": {
+    "id":1179108258063224800,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Valle Dorado, Valle Dorado y Valle De México. Tome precauciones",
+    "Latitude":"205,259,456",
+    "Longitude":"-1,033,599,865",
+    "date":"2019-10-01 18:58:10",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3653704,20.6830671 ]
+    },
+    "properties": {
+    "id":1179108252677787600,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Obrera Centro, Herrera y Cairo y Pípila. Tome precauciones",
+    "Latitude":"206,830,671",
+    "Longitude":"-1,033,653,704",
+    "date":"2019-10-01 18:58:08",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3146951,20.6792166 ]
+    },
+    "properties": {
+    "id":1179105197521592300,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. San Juan Bosco, República y Calle  54. Tome precauciones",
+    "Latitude":"206,792,166",
+    "Longitude":"-1,033,146,951",
+    "date":"2019-10-01 18:46:00",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179104167597678600,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Santa Margarita, Santa  Fe y Santa  Teresa. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 18:41:54",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179103139066257400,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Valle Dorado, Valle  De México y Circuito   Valle Dorado. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 18:37:49",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3603669,20.6770848 ]
+    },
+    "properties": {
+    "id":1179102625645711400,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Americana, Av Hidalgo y Frías. Tome precauciones",
+    "Latitude":"206,770,848",
+    "Longitude":"-1,033,603,669",
+    "date":"2019-10-01 18:35:47",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3594733,20.6675387 ]
+    },
+    "properties": {
+    "id":1179102619287076900,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Guadalajara Centro, Hidalgo y Enrique Díaz De León. Tome precauciones",
+    "Latitude":"206,675,387",
+    "Longitude":"-1,033,594,733",
+    "date":"2019-10-01 18:35:45",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179101596623544300,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Ladrón De Guevara, Av. Américas y Av. México. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 18:31:41",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3495849,20.6658174 ]
+    },
+    "properties": {
+    "id":1179099556560228400,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. Guadalajara Centro, Mexicaltzingo y Manzano. Tome precauciones",
+    "Latitude":"206,658,174",
+    "Longitude":"-1,033,495,849",
+    "date":"2019-10-01 18:23:35",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3385039,20.7134391 ]
+    },
+    "properties": {
+    "id":1179099044255338500,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Santa Elena De La Cruz, Eleuterio Quiroz y Cuenca. Tome precauciones",
+    "Latitude":"207,134,391",
+    "Longitude":"-1,033,385,039",
+    "date":"2019-10-01 18:21:33",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179099040715280400,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Santa Elena De La Cruz, Cuenca y Eleuterio Quiroz. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 18:21:32",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2552525,20.6051272 ]
+    },
+    "properties": {
+    "id":1179099034067378200,
+    "description":"CHOQUE 🚙💥🚗 en Tonalá, Col. Los Puestos, Carr. Libre A Zapotlanejo y Emiliano Zapata. Tome precauciones",
+    "Latitude":"206,051,272",
+    "Longitude":"-1,032,552,525",
+    "date":"2019-10-01 18:21:30",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3603669,20.6770848 ]
+    },
+    "properties": {
+    "id":1179097502328524800,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. Americana, Hidalgo y Frías. Tome precauciones",
+    "Latitude":"206,770,848",
+    "Longitude":"-1,033,603,669",
+    "date":"2019-10-01 18:15:25",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179094435172368400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Los Arrayanes, José Rosas y Av. Puerto Melaque. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 18:03:14",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179093920812355600,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Santa Elena Estadio, Cuenca y Eleuterio Quiroz. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 18:01:11",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2413723,20.6237413 ]
+    },
+    "properties": {
+    "id":1179093386692907000,
+    "description":"ATROPELLADO 🚑 en Tonalá, Col. Ciudad Aztlán, Av. Tonalá e Independencia. Tome precauciones",
+    "Latitude":"206,237,413",
+    "Longitude":"-1,032,413,723",
+    "date":"2019-10-01 17:59:04",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3847659,20.7031648 ]
+    },
+    "properties": {
+    "id":1179091840257142800,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Colomos Providencia, La Rioja y Alberta. Tome precauciones",
+    "Latitude":"207,031,648",
+    "Longitude":"-1,033,847,659",
+    "date":"2019-10-01 17:52:55",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2413723,20.6237413 ]
+    },
+    "properties": {
+    "id":1179089285628272600,
+    "description":"ATROPELLADO 🚑 en Tonalá, Col. Barrio Nuevo, Carretera   A  Tonalá y Contitlán. Tome precauciones",
+    "Latitude":"206,237,413",
+    "Longitude":"-1,032,413,723",
+    "date":"2019-10-01 17:42:46",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179088773361086500,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. San Carlos, Goinzalez Gallo y R Michel. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 17:40:44",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179088767715614700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. La Aurora, R  Michel y González   Gallo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 17:40:43",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2742842,20.6195652 ]
+    },
+    "properties": {
+    "id":1179088253456130000,
+    "description":"ATROPELLADO 🚑 en Tonalá, Col. Barrio Nuevo, Tonalá e Independencia. Tome precauciones",
+    "Latitude":"206,195,652",
+    "Longitude":"-1,032,742,842",
+    "date":"2019-10-01 17:38:40",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179087738940866600,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col.   Arcos De Zapopan, Arco De La Estrella y Juan Gil Preciado. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 17:36:38",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179086206782640000,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Santa Margarita, Santa Fe y Santa Teresa. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 17:30:32",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179084162403315700,
+    "description":"CABLES CAÍDOS ⚠ en Guadalajara, Col. Oblatos, Juan   R  Zavala y Gómez De Mendiola. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 17:22:25",
+    "title":"CABLES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179083639839236000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. La Aurora, Dr. R. Michel y González Gallo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 17:20:20",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179083121494577200,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Jardines Universidad, Patria y Pablo Neruda. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 17:18:17",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179082606459142100,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. Talpita Oriente, San Pedro y Pánfilo Pérez. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 17:16:14",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3306113,20.7011584 ]
+    },
+    "properties": {
+    "id":1179082596959080400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Independencia, Circunvalción y Jorullo. Tome precauciones",
+    "Latitude":"207,011,584",
+    "Longitude":"-1,033,306,113",
+    "date":"2019-10-01 17:16:12",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4084792,20.739797 ]
+    },
+    "properties": {
+    "id":1179079534181793800,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Arcos De Zapopan 1A. Sección, Carretera A Tesistán y Arco Valentino. Tome precauciones",
+    "Latitude":"20,739,797",
+    "Longitude":"-1,034,084,792",
+    "date":"2019-10-01 17:04:01",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3507872,20.6866131 ]
+    },
+    "properties": {
+    "id":1179079529454854100,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Guadalajara Centro, Pino  Suaréz y San Felipe. Tome precauciones",
+    "Latitude":"206,866,131",
+    "Longitude":"-1,033,507,872",
+    "date":"2019-10-01 17:04:00",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3532909,20.6897565 ]
+    },
+    "properties": {
+    "id":1179078507160309800,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Artesanos, Mezquitan y José María Vigil. Tome precauciones",
+    "Latitude":"206,897,565",
+    "Longitude":"-1,033,532,909",
+    "date":"2019-10-01 16:59:56",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2908224,20.6749874 ]
+    },
+    "properties": {
+    "id":1179076973013930000,
+    "description":"DROGADICTO AGRESIVO 🚔 en Guadalajara, Col. Cuauhtémoc Popular, Tunez y Jesús Urueta. Tome precauciones",
+    "Latitude":"206,749,874",
+    "Longitude":"-1,032,908,224",
+    "date":"2019-10-01 16:53:51",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.329046,20.7065404 ]
+    },
+    "properties": {
+    "id":1179074404401201200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Independencia, Sierra Leona y Fidel Velázquez. Tome precauciones",
+    "Latitude":"207,065,404",
+    "Longitude":"-103,329,046",
+    "date":"2019-10-01 16:43:38",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073385390919700,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Plaza Del Sol, Mariano  Otero y Ambar. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:35",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073382668783600,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Plaza Del Sol, Av. Mariano Otero y Obsidiana. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:35",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073379627917300,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Rinconada Del Sol, Av. Mariano Otero y Av. Plaza Del Sol. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:34",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073371545440300,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Ciudad Del Sol, Mariano Otero y López Mateos. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:32",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073364901683200,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. La Giralda, Av. Mariano Otero y López Mateos. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:30",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073361978237000,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Plaza Del Sol, Mariano Otero y Av Del Sol. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:30",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073357872021500,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Rinconada Del Sol, Mariano Otero y Av. Plaza Del Sol. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:29",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179073354160132000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Mezquitán, Mezquitán y José María Vigil. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 16:39:28",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179073347759546400,
+    "description":"CABLES CAÍDOS ⚠ en Zapopan, Col. Conjunto Habitacional Laureles, Blvr  Rodeo y Silvano Barba González. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:39:26",
+    "title":"CABLES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179068263386554400,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Plaza Del Sol, Av. Mariano Otero y Av. Obsidiana. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:19:14",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2999112,20.6598184 ]
+    },
+    "properties": {
+    "id":1179068258672140300,
+    "description":"CABLES CAÍDOS ⚠ en Guadalajara, Col. Dioses Del Nilo, Av. Río Nilo y Mercedes Celis. Tome precauciones",
+    "Latitude":"206,598,184",
+    "Longitude":"-1,032,999,112",
+    "date":"2019-10-01 16:19:13",
+    "title":"CABLES"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3356581,20.7297902 ]
+    },
+    "properties": {
+    "id":1179067743716483000,
+    "description":"ARBOL CAÍDO 🌳 en Zapopan, Col. La Experiencia, Cedral y Av. Imperio. Tome precauciones",
+    "Latitude":"207,297,902",
+    "Longitude":"-1,033,356,581",
+    "date":"2019-10-01 16:17:10",
+    "title":"ARBOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179064682193313800,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Santa Margarita, Antiguo Camino A Tesistán y Ángel Leaño. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 16:05:00",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3666617,20.6504494 ]
+    },
+    "properties": {
+    "id":1179060091888296000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Morelos, Calz. Lázaro Cárdenas y Av. Cristóbal Colón. Tome precauciones",
+    "Latitude":"206,504,494",
+    "Longitude":"-1,033,666,617",
+    "date":"2019-10-01 15:46:46",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179059575699443700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Prados Providencia, Pompeya y Patagonia. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 15:44:43",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179058553920860200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col.   La Penal, Sebastián Allende y Alvaro Obregón. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 15:40:39",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179054989811036200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Ladrón De Guevara, Av. México y Aurelio Gallardo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 15:26:30",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3666617,20.6504494 ]
+    },
+    "properties": {
+    "id":1179054980889747500,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Morelos, Av. Lázaro Cárdenas y Colón. Tome precauciones",
+    "Latitude":"206,504,494",
+    "Longitude":"-1,033,666,617",
+    "date":"2019-10-01 15:26:27",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.314701,20.6667717 ]
+    },
+    "properties": {
+    "id":1179053451260682200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Antigua Penal De Oblatos, Álvaro Obregón y Sebastián Allende. Tome precauciones",
+    "Latitude":"206,667,717",
+    "Longitude":"-103,314,701",
+    "date":"2019-10-01 15:20:23",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4084792,20.739797 ]
+    },
+    "properties": {
+    "id":1179048864277504000,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Arcos De Zapopan 1A. Sección, Camino  Antiguo A  Tesistam y Santa Monica. Tome precauciones",
+    "Latitude":"20,739,797",
+    "Longitude":"-1,034,084,792",
+    "date":"2019-10-01 15:02:09",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179048348164280300,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Santa Margarita, Avenida Central y José María Gil. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 15:00:06",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3948805,20.7332177 ]
+    },
+    "properties": {
+    "id":1179046815620096000,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col. El Vigía, Boulevard De Los Charros y Del Pial. Tome precauciones",
+    "Latitude":"207,332,177",
+    "Longitude":"-1,033,948,805",
+    "date":"2019-10-01 14:54:01",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "id":1179046304158290000,
+    "description":"REPORTAN INCENDIO 🔥🚒 en El Salto, Col.   Rosales, Independecia y Rosales. Tome precauciones",
+    "Latitude":"",
+    "Longitude":"",
+    "date":"2019-10-01 14:51:59",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8863286,37.3382082 ]
+    },
+    "properties": {
+    "id":1179046298227548200,
+    "description":"REPORTAN INCENDIO 🔥🚒 en El Salto, Col. San José El Verde Centro, Independencia y Tepeyac. Tome precauciones",
+    "Latitude":"373,382,082",
+    "Longitude":"-1,218,863,286",
+    "date":"2019-10-01 14:51:57",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179045276755153000,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. La Venta Del Astillero, Carretera A Nogales e Inglaterra. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 14:47:54",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3946895,20.6243118 ]
+    },
+    "properties": {
+    "id":1179044763506483200,
+    "description":"DROGADICTO AGRESIVO 🚔 en Tlaquepaque, Col. El Sauz, Av.  Isla Gomera y Farallón. Tome precauciones",
+    "Latitude":"206,243,118",
+    "Longitude":"-1,033,946,895",
+    "date":"2019-10-01 14:45:51",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3097643,20.6664422 ]
+    },
+    "properties": {
+    "id":1179041704223088600,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Tetlán, Presa Laurel y Av. Javier Mina. Tome precauciones",
+    "Latitude":"206,664,422",
+    "Longitude":"-1,033,097,643",
+    "date":"2019-10-01 14:33:42",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179041700733493200,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Arcos Vallarta, López Cotilla y Emilio Castelar. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 14:33:41",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3840174,20.6733168 ]
+    },
+    "properties": {
+    "id":1179041693573816300,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Americana, López Cotilla y Emilio Castelar. Tome precauciones",
+    "Latitude":"206,733,168",
+    "Longitude":"-1,033,840,174",
+    "date":"2019-10-01 14:33:39",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179040163919351800,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Ladrón De Guevara, Av Hidalgo y Bernardo De Balbuena. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 14:27:35",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179037110281617400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Oblatos, Obregón y Sebastián Allende. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 14:15:27",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179037102706585600,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Loma Bonita Ejidal, Av. Ahuehuetes y Patria. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 14:15:25",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179037096528371700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Zona Industrial, Calle 5 y Calle 14. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 14:15:23",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179035569810100200,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Santa Anita, Av. Ramón Corona y Niños Héroes. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 14:09:19",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179035564550570000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Lomas Del Paraíso 1A. Sección, Eucario  Leon   López y Fermina Rivera. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 14:09:18",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4419774,20.7556465 ]
+    },
+    "properties": {
+    "id":1179034029443686400,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Nuevo México, Camino Viejo y Av. Base Aerea. Tome precauciones",
+    "Latitude":"207,556,465",
+    "Longitude":"-1,034,419,774",
+    "date":"2019-10-01 14:03:12",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4186182,20.614144 ]
+    },
+    "properties": {
+    "id":1179033514458509300,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Parques Del Bosque, Camino  Al  Iteso y Milenio. Tome precauciones",
+    "Latitude":"20,614,144",
+    "Longitude":"-1,034,186,182",
+    "date":"2019-10-01 14:01:09",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2894028,20.6274146 ]
+    },
+    "properties": {
+    "id":1179032492516561000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col.   Camichines, Autopista De Zapotlanejo A Guadalajara y Av. Patria. Tome precauciones",
+    "Latitude":"206,274,146",
+    "Longitude":"-1,032,894,028",
+    "date":"2019-10-01 13:57:06",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179031471757103000,
+    "description":"HUNDIMIENTO ⚠ en Guadalajara, Col. Circunvalación Belisario, Puerto Del Carmen y Puerto Mulege. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 13:53:02",
+    "title":"HUNDIMIENTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179030450007953400,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Santa Anita, Ramón Corona y Niños Héroes. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 13:48:59",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1179029428254466000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. La Gigantera, Carretera A San Sebastián y La Loma. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 13:44:55",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179028916834623500,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Desconoce, Carretera A El Salto Vía Alameda y Carretera A Chapala Km. 23. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 13:42:53",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3475075,20.7020611 ]
+    },
+    "properties": {
+    "id":1179028909179965400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col.   Guadalupana, Alcalde y Chihuahua. Tome precauciones",
+    "Latitude":"207,020,611",
+    "Longitude":"-1,033,475,075",
+    "date":"2019-10-01 13:42:51",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496826,20.6750852 ]
+    },
+    "properties": {
+    "id":1179027889494413300,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. Guadalajara Centro, Av. Juárez y Colón. Tome precauciones",
+    "Latitude":"206,750,852",
+    "Longitude":"-1,033,496,826",
+    "date":"2019-10-01 13:38:48",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3726202,20.6767874 ]
+    },
+    "properties": {
+    "id":1179027883358130200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Lafayette, Hidalgo y Bernardo De Balbuena. Tome precauciones",
+    "Latitude":"206,767,874",
+    "Longitude":"-1,033,726,202",
+    "date":"2019-10-01 13:38:47",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3323759,20.6954792 ]
+    },
+    "properties": {
+    "id":1179026862552563700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Independencia, Siete  Colinas y Huascaran. Tome precauciones",
+    "Latitude":"206,954,792",
+    "Longitude":"-1,033,323,759",
+    "date":"2019-10-01 13:34:43",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4660176,20.5451481 ]
+    },
+    "properties": {
+    "id":1179026856932188200,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. San Agustín, Nicolás R. Casillas y Luis Curiel. Tome precauciones",
+    "Latitude":"205,451,481",
+    "Longitude":"-1,034,660,176",
+    "date":"2019-10-01 13:34:42",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179025833677279200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Jardines De La Paz, Av. Río Nilo y Diego Durán. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 13:30:38",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3124684,20.7016386 ]
+    },
+    "properties": {
+    "id":1179024815614763000,
+    "description":"HUNDIMIENTO ⚠ en Guadalajara, Col. Circunvalación Oblatos, Puerto  Del  Carmen y Puerto  Muleje. Tome precauciones",
+    "Latitude":"207,016,386",
+    "Longitude":"-1,033,124,684",
+    "date":"2019-10-01 13:26:35",
+    "title":"HUNDIMIENTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179024809214251000,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col.   Valle De Las Flores, Carr. A Morelia y Libre A Tlajomulco. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 13:26:34",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3152136,20.6234456 ]
+    },
+    "properties": {
+    "id":1179021245855289300,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col.     Fraccionamiento Revolución, Lázaro Cárdenas y Batalla De Zacatecas. Tome precauciones",
+    "Latitude":"206,234,456",
+    "Longitude":"-1,033,152,136",
+    "date":"2019-10-01 13:12:24",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3726202,20.6767874 ]
+    },
+    "properties": {
+    "id":1179019715886375000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Lafayette, Av. Hidalgo y Bernardo De Balvuena. Tome precauciones",
+    "Latitude":"206,767,874",
+    "Longitude":"-1,033,726,202",
+    "date":"2019-10-01 13:06:20",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179019709951463400,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col.   Valle De Las Flores, Carretera A Morelia y Valle De Las Flores. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 13:06:18",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4544067,20.5550946 ]
+    },
+    "properties": {
+    "id":1179016656917586000,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Santa Anita, Av Ramón Corona y Camino Real A Colima. Tome precauciones",
+    "Latitude":"205,550,946",
+    "Longitude":"-1,034,544,067",
+    "date":"2019-10-01 12:54:10",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179016142888812500,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Jardines Tepeyac, Av.  Patria y Av. Manuel J. Clouthier. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 12:52:08",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.370666,20.6768373 ]
+    },
+    "properties": {
+    "id":1179014613096108000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Ladrón De Guevara, Av Hidalgo y Bernardo De Valbueno. Tome precauciones",
+    "Latitude":"206,768,373",
+    "Longitude":"-103,370,666",
+    "date":"2019-10-01 12:46:03",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1179013592152191000,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Zapopan, Col. Valle De Los Molinos, Carretera A Colotlán y Entrada A Valle De Los Molinos. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 12:42:00",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3239885,20.659521 ]
+    },
+    "properties": {
+    "id":1179012064611881000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. La Loma, Revolución y Calle 72. Tome precauciones",
+    "Latitude":"20,659,521",
+    "Longitude":"-1,033,239,885",
+    "date":"2019-10-01 12:35:55",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3132516,20.6501203 ]
+    },
+    "properties": {
+    "id":1179012059012444200,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. Sutaj, Revolución y Calle  74. Tome precauciones",
+    "Latitude":"206,501,203",
+    "Longitude":"-1,033,132,516",
+    "date":"2019-10-01 12:35:54",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4233312,20.6579992 ]
+    },
+    "properties": {
+    "id":1179011037837824000,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Plaza Guadalupe, Av Patria y Clouthier. Tome precauciones",
+    "Latitude":"206,579,992",
+    "Longitude":"-1,034,233,312",
+    "date":"2019-10-01 12:31:51",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179009510855397400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Arcos Vallarta, Luis Perez Verdía e Hidalgo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 12:25:46",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3773046,20.676676 ]
+    },
+    "properties": {
+    "id":1179009508129067000,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col.   Chapultepec, Av. Hidalgo y Luis Pérez Verdía. Tome precauciones",
+    "Latitude":"20,676,676",
+    "Longitude":"-1,033,773,046",
+    "date":"2019-10-01 12:25:46",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3773099,20.6767982 ]
+    },
+    "properties": {
+    "id":1179009503934795800,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col.   Providencia, Luis Pérez Verdía y Av. Hidalgo. Tome precauciones",
+    "Latitude":"206,767,982",
+    "Longitude":"-1,033,773,099",
+    "date":"2019-10-01 12:25:45",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1179009498683453400,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. Arcos Vallarta, Av. Hidalgo y Luis Pérez Verdía. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 12:25:44",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2897909,20.5625343 ]
+    },
+    "properties": {
+    "id":1179008984474357800,
+    "description":"CHOQUE 🚙💥🚗 en El Salto, Col.   Las Pintitas, Carretera Chapala A Guadalajara y Crucero De Carretera El Salto A Gdl. Tome precauciones",
+    "Latitude":"205,625,343",
+    "Longitude":"-1,032,897,909",
+    "date":"2019-10-01 12:23:41",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1179008470898679800,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. San Agustín, López Mateos  De Norte  A  Sur y Al Las Plaza Outlet  Frente Al Seven Eleven. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 12:21:39",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3239885,20.659521 ]
+    },
+    "properties": {
+    "id":1179006941542191000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. San Antonio, Av. Revolución y Calle 70. Tome precauciones",
+    "Latitude":"20,659,521",
+    "Longitude":"-1,033,239,885",
+    "date":"2019-10-01 12:15:34",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3773046,20.676676 ]
+    },
+    "properties": {
+    "id":1179004394676932600,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. Americana, Luis Pérez Verdía y Av. Hidalgo. Tome precauciones",
+    "Latitude":"20,676,676",
+    "Longitude":"-1,033,773,046",
+    "date":"2019-10-01 12:05:27",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3218487,20.5913378 ]
+    },
+    "properties": {
+    "id":1179003882502021000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. San Martín De Las Flores De Abajo, Carretera A Chapala y Periférico. Tome precauciones",
+    "Latitude":"205,913,378",
+    "Longitude":"-1,033,218,487",
+    "date":"2019-10-01 12:03:25",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3472151,20.6468267 ]
+    },
+    "properties": {
+    "id":1178999816166269000,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Guadalajara, Col. Ferrocarril, Calle 7 y Calle 4 A. Tome precauciones",
+    "Latitude":"206,468,267",
+    "Longitude":"-1,033,472,151",
+    "date":"2019-10-01 11:47:15",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1178984575739015200,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Real Del Sol, Puerta Del Sol y Via Lactea. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 10:46:41",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1178984570693263400,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Real Del Sol, Av. Puerta Del Sol y Av. Vía Láctea. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 10:46:40",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4479314,20.4736865 ]
+    },
+    "properties": {
+    "id":1178979487414980600,
+    "description":"CHOQUE 🚙💥🚗 en Tlajomulco, Col. Real Del Sol, Av Puesta Del Sol y Av Via Lactea. Tome precauciones",
+    "Latitude":"204,736,865",
+    "Longitude":"-1,034,479,314",
+    "date":"2019-10-01 10:26:28",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5247709,20.7669175 ]
+    },
+    "properties": {
+    "id":1178973883782897700,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. El Húmedo De Nextipac, Amazona y Santa  Monica. Tome precauciones",
+    "Latitude":"207,669,175",
+    "Longitude":"-1,035,247,709",
+    "date":"2019-10-01 10:04:12",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178971337299300400,
+    "description":"EBRIO AGRESIVO 🚔 en Zapopan, Col. La Arboleda, Aurora Boreal y Carnero. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 9:54:05",
+    "title":"EBRIO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5247709,20.7669175 ]
+    },
+    "properties": {
+    "id":1178968792921190400,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. El Húmedo De Nextipac, Río Amazonas y Santa Mónica. Tome precauciones",
+    "Latitude":"207,669,175",
+    "Longitude":"-1,035,247,709",
+    "date":"2019-10-01 9:43:59",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4295033,20.6431926 ]
+    },
+    "properties": {
+    "id":1178953020178157600,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. El Colli Infonavit, Ley Federal Del Trabajo y Playa De Horos. Tome precauciones",
+    "Latitude":"206,431,926",
+    "Longitude":"-1,034,295,033",
+    "date":"2019-10-01 8:41:18",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178953015463690200,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. El Colli Infonavit, Ley Federal Del Trabajo y Playa De Hornos. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 8:41:17",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3349054,20.6820164 ]
+    },
+    "properties": {
+    "id":1178949449453838300,
+    "description":"EBRIO AGRESIVO 🚔 en Guadalajara, Col. La Perla, Mariano Jiménez y República. Tome precauciones",
+    "Latitude":"206,820,164",
+    "Longitude":"-1,033,349,054",
+    "date":"2019-10-01 8:27:07",
+    "title":"EBRIO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4295033,20.6431926 ]
+    },
+    "properties": {
+    "id":1178947917794758700,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. El Colli Infonavit, Ley Federal Del Trabajao y Calle F. Tome precauciones",
+    "Latitude":"206,431,926",
+    "Longitude":"-1,034,295,033",
+    "date":"2019-10-01 8:21:02",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2230676,20.6491043 ]
+    },
+    "properties": {
+    "id":1178942828094873600,
+    "description":"EBRIO AGRESIVO 🚔 en Tonalá, Col. Rancho La Cruz, Badem y Montrabel. Tome precauciones",
+    "Latitude":"206,491,043",
+    "Longitude":"-1,032,230,676",
+    "date":"2019-10-01 8:00:48",
+    "title":"EBRIO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4202557,20.6243613 ]
+    },
+    "properties": {
+    "id":1178940284761251800,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Unidad Díaz Ordaz, Av. López Mateos y Prol. Las Fuentes. Tome precauciones",
+    "Latitude":"206,243,613",
+    "Longitude":"-1,034,202,557",
+    "date":"2019-10-01 7:50:42",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.425298,20.6174997 ]
+    },
+    "properties": {
+    "id":1178940278570393600,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Las Fuentes, Av. López Mateos y Av. Las Fuentes. Tome precauciones",
+    "Latitude":"206,174,997",
+    "Longitude":"-103,425,298",
+    "date":"2019-10-01 7:50:40",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4202557,20.6243613 ]
+    },
+    "properties": {
+    "id":1178935184588181500,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Las Fuentes, López Mateos y Av. Las Fuentes. Tome precauciones",
+    "Latitude":"206,243,613",
+    "Longitude":"-1,034,202,557",
+    "date":"2019-10-01 7:30:26",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.1695613,21.0284299 ]
+    },
+    "properties": {
+    "id":1178932127276130300,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. San Juan De Ocotán, Carretera Guadalajara A Nogales y Avenida Aviación. Tome precauciones",
+    "Latitude":"210,284,299",
+    "Longitude":"-1,041,695,613",
+    "date":"2019-10-01 7:18:17",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3168603,20.6257417 ]
+    },
+    "properties": {
+    "id":1178915856119664600,
+    "description":"EBRIO AGRESIVO 🚔 en Tlaquepaque, Col. El Álamo, Priv. Insurgentes y Camino Real. Tome precauciones",
+    "Latitude":"206,257,417",
+    "Longitude":"-1,033,168,603",
+    "date":"2019-10-01 6:13:37",
+    "title":"EBRIO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2995395,20.7176456 ]
+    },
+    "properties": {
+    "id":1178907189790027800,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. Huentitán El Alto, Narciso Serradel Sevilla y Periférico. Tome precauciones",
+    "Latitude":"207,176,456",
+    "Longitude":"-1,032,995,395",
+    "date":"2019-10-01 5:39:11",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1178906165301907500,
+    "description":"DROGADICTO AGRESIVO 🚔 en Tlaquepaque, Col. El Campesino, San Miguel y Deportes. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 5:35:07",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3413522,20.673499 ]
+    },
+    "properties": {
+    "id":1178904635056283600,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. San Antonio, Gigantes y Calle    62. Tome precauciones",
+    "Latitude":"20,673,499",
+    "Longitude":"-1,033,413,522",
+    "date":"2019-10-01 5:29:02",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1178897002844827600,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. La Duraznera, Carr.  Gdl.  Chapala y Aprox.  150   Mts.  Antes De Periférico  Sur. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 4:58:42",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3577038,20.7098171 ]
+    },
+    "properties": {
+    "id":1178894454654193700,
+    "description":"ATROPELLADO 🚑 en Guadalajara, Col. Jardines Del Country, Enríque Díaz De León y Manuel De Mimbela. Tome precauciones",
+    "Latitude":"207,098,171",
+    "Longitude":"-1,033,577,038",
+    "date":"2019-10-01 4:48:35",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178893940134686700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Agustín Yánez, Javier Mina y Florencio Del Castillo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 4:46:32",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1178891900474003500,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Lomas Del Tapatío, Carra A Chapala y Av. Las Rosas. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 4:38:26",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.1826862,20.5178271 ]
+    },
+    "properties": {
+    "id":1178889350169419800,
+    "description":"DROGADICTO AGRESIVO 🚔 en El Salto, Col.   Alta Villa, Herrera y Cairo y Miguel Hidalgo. Tome precauciones",
+    "Latitude":"205,178,271",
+    "Longitude":"-1,031,826,862",
+    "date":"2019-10-01 4:28:18",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178884765501538300,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Oblatos, Juan Pablo II y Hacienda Del Rosario. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 4:10:05",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3238033,20.5951054 ]
+    },
+    "properties": {
+    "id":1178884252118728700,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Micaelita, Carretera A Chapala y Av De Las Rosas. Tome precauciones",
+    "Latitude":"205,951,054",
+    "Longitude":"-1,033,238,033",
+    "date":"2019-10-01 4:08:02",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3238033,20.5951054 ]
+    },
+    "properties": {
+    "id":1178884246515175400,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Micaelita, Carretera A Chapala y Av. De Las Rosas. Tome precauciones",
+    "Latitude":"205,951,054",
+    "Longitude":"-1,033,238,033",
+    "date":"2019-10-01 4:08:01",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4126771,20.7274904 ]
+    },
+    "properties": {
+    "id":1178883728988356600,
+    "description":"REPORTAN INCENDIO 🔥🚒 en Zapopan, Col. Santa Margarita, Santa Catalina y Periférico. Tome precauciones",
+    "Latitude":"207,274,904",
+    "Longitude":"-1,034,126,771",
+    "date":"2019-10-01 4:05:58",
+    "title":"REPORTAN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3238033,20.5951054 ]
+    },
+    "properties": {
+    "id":1178879145373307000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Desconoce, Carretera A Chapala y Av. De Las Rosas. Tome precauciones",
+    "Latitude":"205,951,054",
+    "Longitude":"-1,033,238,033",
+    "date":"2019-10-01 3:47:45",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3218385,20.6017208 ]
+    },
+    "properties": {
+    "id":1178879140424032300,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. El Tapatío, Carretera A Chapala y Desconoce. Tome precauciones",
+    "Latitude":"206,017,208",
+    "Longitude":"-1,033,218,385",
+    "date":"2019-10-01 3:47:44",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3035505,20.634591 ]
+    },
+    "properties": {
+    "id":1178877613777019000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Tlaquepaque Centro, República De Cuba y De Las Américas. Tome precauciones",
+    "Latitude":"20,634,591",
+    "Longitude":"-1,033,035,505",
+    "date":"2019-10-01 3:41:40",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3035505,20.634591 ]
+    },
+    "properties": {
+    "id":1178877607934341000,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Tlaquepaque Centro, República De Cuba y Américas. Tome precauciones",
+    "Latitude":"20,634,591",
+    "Longitude":"-1,033,035,505",
+    "date":"2019-10-01 3:41:38",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.308631,20.6401688 ]
+    },
+    "properties": {
+    "id":1178875566738550800,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Tlaquepaque Centro, Allende y Septiembre. Tome precauciones",
+    "Latitude":"206,401,688",
+    "Longitude":"-103,308,631",
+    "date":"2019-10-01 3:33:32",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2847963,20.6159374 ]
+    },
+    "properties": {
+    "id":1178859796478513200,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. San Pedrito, Mariano Abasolo y Desconoce. Tome precauciones",
+    "Latitude":"206,159,374",
+    "Longitude":"-1,032,847,963",
+    "date":"2019-10-01 2:30:52",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.279288,20.6103694 ]
+    },
+    "properties": {
+    "id":1178856739967524900,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. San Pedrito, Carr Libre A Zapotlanejo y Carr A Tonalá. Tome precauciones",
+    "Latitude":"206,103,694",
+    "Longitude":"-103,279,288",
+    "date":"2019-10-01 2:18:43",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178853682194112500,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. La Aurora, Av. Javier Mina y Florencio Del Castillo. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 2:06:34",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5159347,20.7279599 ]
+    },
+    "properties": {
+    "id":1178852663938736000,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. La Venta Del Astillero, Carretera A Tepic y Cucba. Tome precauciones",
+    "Latitude":"207,279,599",
+    "Longitude":"-1,035,159,347",
+    "date":"2019-10-01 2:02:31",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3490049,20.6847677 ]
+    },
+    "properties": {
+    "id":1178852660205817900,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. El Santuario, Francisco Zarco y Contreras Medellín. Tome precauciones",
+    "Latitude":"206,847,677",
+    "Longitude":"-1,033,490,049",
+    "date":"2019-10-01 2:02:30",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178852656426684400,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. La Venta Del Astillero, Carr.  Libre A Nogales y Carr. A Nextipac. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 2:02:29",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178852645391552500,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. La Venta Del Astillero, Carr.  Gdl. Nogales y 200   Mts  Despues De  Carr.  Nextipac. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 2:02:27",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.351128,20.6858492 ]
+    },
+    "properties": {
+    "id":1178852638353428500,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. Guadalajara Centro, Contreras Medellin y Francisco Zarco. Tome precauciones",
+    "Latitude":"206,858,492",
+    "Longitude":"-103,351,128",
+    "date":"2019-10-01 2:02:25",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178850000000000000,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. La Venta Del Astillero, Carretera A Nogales y Carreterea A Nextipac. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 1:42:10",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.351128,20.6858492 ]
+    },
+    "properties": {
+    "id":1178847536704041000,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Guadalajara, Col. Artesanos, Contreras Medellín y Francisco Zarco. Tome precauciones",
+    "Latitude":"206,858,492",
+    "Longitude":"-103,351,128",
+    "date":"2019-10-01 1:42:09",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3470954,20.6398589 ]
+    },
+    "properties": {
+    "id":1178841934732890000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Valle Del Álamo, Lázaro Cárdenas y Rotona. Tome precauciones",
+    "Latitude":"206,398,589",
+    "Longitude":"-1,033,470,954",
+    "date":"2019-10-01 1:19:53",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178840911960318000,
+    "description":"ARBOL CAÍDO 🌳 en Zapopan, Col. Ciudad Del Sol, Av. López Mateos y Av. Mariano Otero. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-10-01 1:15:49",
+    "title":"ARBOL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178837853025034200,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col.   Santa Cecilia, Juan Pablo II y Hacienda Del Carmen. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 1:03:40",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1178827678817947600,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. Santa María Tequepexpan, Periférico y Av. Colón. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 0:23:14",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3416512,20.6753162 ]
+    },
+    "properties": {
+    "id":1178826656343044000,
+    "description":"PERSONA INCONSCIENTE 🚑 en Guadalajara, Col. San Juan De Dios, Calzada Independencia e Hidalgo. Tome precauciones",
+    "Latitude":"206,753,162",
+    "Longitude":"-1,033,416,512",
+    "date":"2019-10-01 0:19:11",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178825124600000500,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Alcalde Barranquitas, Fray Juan De San Miguel y Fray Teófilo García Sancho. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 0:13:05",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3854981,20.6699281 ]
+    },
+    "properties": {
+    "id":1178824611175293000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Arcos Sur, Av. López Mateos Sur e Inglaterra. Tome precauciones",
+    "Latitude":"206,699,281",
+    "Longitude":"-1,033,854,981",
+    "date":"2019-10-01 0:11:03",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3212248,20.6243088 ]
+    },
+    "properties": {
+    "id":1178823587056279600,
+    "description":"DROGADICTO AGRESIVO 🚔 en Tlaquepaque, Col.   Villas De Oriente I, Del Lago y Av. Malecón. Tome precauciones",
+    "Latitude":"206,243,088",
+    "Longitude":"-1,033,212,248",
+    "date":"2019-10-01 0:06:59",
+    "title":"DROGADICTO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178822561284665300,
+    "description":"FALLA DE SEMÁFORO 🚦 en Guadalajara, Col.   El Rastro, Av. López De Legazpi y Calle 36. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-10-01 0:02:54",
+    "title":"FALLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4520655,20.7734611 ]
+    },
+    "properties": {
+    "id":1178821538843435000,
+    "description":"FALLA DE SEMÁFORO 🚦 en Zapopan, Col. Nuevo México, Av Juan Gil Preciado y Cuarta Poniente. Tome precauciones",
+    "Latitude":"207,734,611",
+    "Longitude":"-1,034,520,655",
+    "date":"2019-09-30 23:58:50",
+    "title":"FALLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3534223,20.7419441 ]
+    },
+    "properties": {
+    "id":1178821533818654700,
+    "description":"FALLA DE SEMÁFORO 🚦 en Zapopan, Col. Balcones De La Cantera, Cantera Morada y Av  Las Torres. Tome precauciones",
+    "Latitude":"207,419,441",
+    "Longitude":"-1,033,534,223",
+    "date":"2019-09-30 23:58:49",
+    "title":"FALLA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4084792,20.739797 ]
+    },
+    "properties": {
+    "id":1178818980175368200,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Arcos De Zapopan 1A. Sección, Arco Del Triunfo y Arco De Tito. Tome precauciones",
+    "Latitude":"20,739,797",
+    "Longitude":"-1,034,084,792",
+    "date":"2019-09-30 23:48:40",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178818469283938300,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. San Juan De Dios, Industria y Abascal y Souza. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-09-30 23:46:39",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.279288,20.6103694 ]
+    },
+    "properties": {
+    "id":1178818459993591800,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col. San Pedrito, Carretera Libre A Zapotlanejo y Av. Tonalá. Tome precauciones",
+    "Latitude":"206,103,694",
+    "Longitude":"-103,279,288",
+    "date":"2019-09-30 23:46:36",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178817934149456000,
+    "description":"ATROPELLADO 🚑 en Zapopan, Col. Indígena De Mezquitan, 18 De Marzo y Tomás Sandoval. Tome precauciones",
+    "Latitude":"206,719,563",
+    "Longitude":"-103,416,501",
+    "date":"2019-09-30 23:44:31",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3769457,20.6382026 ]
+    },
+    "properties": {
+    "id":1178817415100145700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. 18 De Marzo, Av. López De Legazpi y Av. 8 De Julio. Tome precauciones",
+    "Latitude":"206,382,026",
+    "Longitude":"-1,033,769,457",
+    "date":"2019-09-30 23:42:27",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3665204,20.634861 ]
+    },
+    "properties": {
+    "id":1178817403964264400,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Desconoce, 8 De Julio y López De Legazpi. Tome precauciones",
+    "Latitude":"20,634,861",
+    "Longitude":"-1,033,665,204",
+    "date":"2019-09-30 23:42:25",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178817392908087300,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Colón Industrial, 8 De Julio y Calle 10. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-09-30 23:42:22",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3941334,20.6090812 ]
+    },
+    "properties": {
+    "id":1178815350454050800,
+    "description":"ATROPELLADO 🚑 en Tlaquepaque, Col. Balcones De Santa María, Paseo De La Serenata y Paseo Del Porton. Tome precauciones",
+    "Latitude":"206,090,812",
+    "Longitude":"-1,033,941,334",
+    "date":"2019-09-30 23:34:15",
+    "title":"ATROPELLADO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.389712,20.6411899 ]
+    },
+    "properties": {
+    "id":1178814837893320700,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Del Sur, Santo Domingo y Honduras. Tome precauciones",
+    "Latitude":"206,411,899",
+    "Longitude":"-103,389,712",
+    "date":"2019-09-30 23:32:13",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3359592,20.6814584 ]
+    },
+    "properties": {
+    "id":1178813307710509000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. La Perla, Abascal y Souza e Industria. Tome precauciones",
+    "Latitude":"206,814,584",
+    "Longitude":"-1,033,359,592",
+    "date":"2019-09-30 23:26:08",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4430325,20.7307158 ]
+    },
+    "properties": {
+    "id":1178812794071928800,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. Valle Real, Av Santa Margarita y Av Manantial. Tome precauciones",
+    "Latitude":"207,307,158",
+    "Longitude":"-1,034,430,325",
+    "date":"2019-09-30 23:24:06",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178812280491987000,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Zona Industrial, 8 De Julio y López  De Legazpi. Tome precauciones",
+    "Latitude":"206,596,988",
+    "Longitude":"-1,033,496,092",
+    "date":"2019-09-30 23:22:03",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4256369,20.7484567 ]
+    },
+    "properties": {
+    "id":1178808718999326700,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col. Jardines De Nuevo México, Camino Viejo A Tesistán y Altura Fracc San Francisco. Tome precauciones",
+    "Latitude":"207,484,567",
+    "Longitude":"-1,034,256,369",
+    "date":"2019-09-30 23:07:54",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3655364,20.5785172 ]
+    },
+    "properties": {
+    "id":1178808712569479200,
+    "description":"CHOQUE 🚙💥🚗 en Tlaquepaque, Col.   San Pedro, Periférico Sur y Av. Jesús Michel González. Tome precauciones",
+    "Latitude":"205,785,172",
+    "Longitude":"-1,033,655,364",
+    "date":"2019-09-30 23:07:52",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.315249,20.5740755 ]
+    },
+    "properties": {
+    "id":1178807688215584800,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Tlaquepaque, Col.   La Capilla, De Chapala  A Guadalajara  Km- 13 y Pasando Parque Montenegro. Tome precauciones",
+    "Latitude":"205,740,755",
+    "Longitude":"-103,315,249",
+    "date":"2019-09-30 23:03:48",
+    "title":"MOTOCICLISTA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4242422,20.7471724 ]
+    },
+    "properties": {
+    "id":1178803612266504200,
+    "description":"PERSONA INCONSCIENTE 🚑 en Zapopan, Col.   La Providencia, Antiguo Camino A Tesistán y Providencia. Tome precauciones",
+    "Latitude":"207,471,724",
+    "Longitude":"-1,034,242,422",
+    "date":"2019-09-30 22:47:36",
+    "title":"PERSONA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3496092,20.6596988 ]
+    },
+    "properties": {
+    "id":1178801573717270500,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Jardines Del Bosque Norte, Arboledas y Mariano Otero. Tome precauciones",
+    "Latitude":"20.6596988",
+    "Longitude":"-103.3496092",
+    "date":"2019-09-30 22:39:30",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.3504354,20.6780092 ]
+    },
+    "properties": {
+    "id":1178795974208163800,
+    "description":"CHOQUE 🚙💥🚗 en Guadalajara, Col. Guadalajara Centro, Independencia y González Ortega. Tome precauciones",
+    "Latitude":"20.6780092",
+    "Longitude":"-103.3504354",
+    "date":"2019-09-30 22:17:15",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178791894459015200,
+    "description":"CHOQUE 🚙💥🚗 en Zapopan, Col. San Juan De Ocotán, Av Aviacion y Las Vias  Del Tren. Tome precauciones",
+    "Latitude":"20.6719563",
+    "Longitude":"-103.416501",
+    "date":"2019-09-30 22:01:03",
+    "title":"CHOQUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.416501,20.6719563 ]
+    },
+    "properties": {
+    "id":1178786800132862000,
+    "description":"MOTOCICLISTA LESIONADO 🚑 en Zapopan, Col. San Juan De Ocotán, Av. Aviación y Paseo De Las Flores. Tome precauciones",
+    "Latitude":"20.6719563",
+    "Longitude":"-103.416501",
+    "date":"2019-09-30 21:40:48",
+    "title":"MOTOCICLISTA"
+    }
+  }
+]
+}
